@@ -1,0 +1,17 @@
+# Secrets / local env
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Logs / caches
+*.log
+*.cache
+/tmp/
