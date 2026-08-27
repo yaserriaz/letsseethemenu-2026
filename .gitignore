@@ -15,3 +15,6 @@ Thumbs.db
 *.log
 *.cache
 /tmp/
+
+# Local backup snapshots
+_backup/
